@@ -1,0 +1,440 @@
+body {
+background: rgb(217,240,249);
+background: radial-gradient(circle, rgba(217,240,249,1) 25%, rgba(255,255,255,1) 100%);
+    color: #000;
+    height: 100%;
+}
+.h1_p {
+    color: #fff;
+    text-shadow: 2px 2px 2px #000;
+}
+.yslygi {
+
+}
+.li1 {
+    margin-top: 30px;
+}
+.h2 {
+    margin-top: 20px
+
+}
+.li {
+    font-size: 35px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.l {
+    font-size: 35px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.block1 {
+
+    width: 100%;
+    max-height: 580px;
+}
+.block2 {
+background: rgb(217,240,249);
+background: radial-gradient(circle, rgba(217,240,249,1) 25%, rgba(255,255,255,1) 100%);
+    width: 100%;
+    height: 800px;
+}
+.block3 {
+background: rgb(217,240,249);
+background: radial-gradient(circle, rgba(217,240,249,1) 25%, rgba(255,255,255,1) 100%);
+    width: 100%;
+    height: 900px;
+}
+.btn1 {
+    margin-top: 20px;
+    border-radius: 30px;
+    width: 178px;
+    height: 61px;
+    background-color: #FF7575;
+}
+.line1 {
+    margin-left: 16px;
+
+    max-width: 10%;
+    border-bottom: 1px solid #000;
+    margin-top: 30px;
+        display: inline-block;
+padding: 20px;
+}
+#square {
+    max-width: 600px;
+    margin-top: 130px;
+    height: 440px;
+    background: #DADADA;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+#square1 {
+    max-width: 613px;
+    margin-top: 170px;
+    height: 448px;
+    background: #DADADA;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+.line {
+
+    max-width: 10%;
+    border-bottom: 1px solid #000;
+    margin-top: 30px;
+        display: inline-block;
+padding: 20px;
+   }
+.logo1 {
+    margin-top: -15px;
+}
+.zag {
+    font-size: 40px;
+    text-align: center;
+}
+.webd {
+        font-size: 15px;
+    margin-top: 34px;
+    margin-left: -138px;
+    position: absolute;
+}
+
+
+
+.logo {
+    font-size: 26px;
+}
+
+.header-nightsky {
+    display: block;
+    color: white;
+    background-color: transparent;
+    background-size: cover;
+    background-position: bottom;
+    padding-bottom: 00px;
+}
+
+.header-nightsky .navbar-nav>li>a {
+    color: #000;
+    font-size: 18px;
+
+}
+
+.header-nightsky .navbar {
+    margin-bottom: 0px;
+    padding-top: 3px;
+    padding-bottom: 20px;
+    width: 100%;
+    border-bottom:none;
+    background: transparent;
+    min-width: 300px;
+    border: none;
+}
+
+.header-nightsky .navbar-default .navbar-nav>.open>a,
+.header-nightsky .navbar-default .navbar-nav>.open>a:focus,
+.header-nightsky .navbar-default .navbar-nav>.open>a:hover {
+    color: #ccc;
+    background-color: transparent;
+}
+.header-nightsky .nav>li>a {
+    font-size: 18px;
+
+}
+
+
+
+.header-nightsky .nav>li>a:focus,
+.header-nightsky .nav>li>a:hover {
+
+text-shadow: 2px 2px 2px #c4c4c4;
+    background-color: transparent;
+}
+
+.header-nightsky .navbar-nav>li {
+    margin-right: 20px;
+}
+
+.header-nightsky .navbar-nav {
+   margin-top: 12px;
+}
+
+.header-nightsky .navbar-toggle {
+    background-color: transparent !important;
+    margin-top: 20px;
+    border: 1px solid #fff;
+}
+
+.header-nightsky .navbar-toggle .icon-bar {
+    background-color: #000;
+}
+
+.header-nightsky .navbar-brand {
+    color: #000;
+    font-size: 50px;
+    margin-top: -5px;
+    margin-bottom: 10px;
+}
+}
+
+.header-nightsky .navbar-brand:hover {
+    color: #ccc;
+}
+.knopka:active{
+      background: rgb(9,128,210);
+background: linear-gradient(117deg, rgba(9,128,210,1) 0%, rgba(85,199,235,1) 100%);
+}
+
+.vypad {
+   background: rgb(9,128,210);
+background: linear-gradient(117deg, rgba(9,128,210,1) 0%, rgba(85,199,235,1) 100%);
+}
+
+.header-nightsky .hero {
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+
+.header-nightsky .hero h1 {
+    color: white;
+    font-weight: bold;
+    font-size: 60px;
+    margin-bottom: 36px;
+}
+
+
+.header-nightsky .hero p {
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 22px;
+    max-width: 660px;
+    margin: 0 auto 20px;
+    font-weight: normal;
+    line-height: 1.5;
+}
+
+.header-nightsky .btn-primary {
+    color: #fff;
+    background-color: transparent;
+    border-color: #fffbfb !important;
+    outline:none;
+    margin-right: 20px;
+    margin-top: 20px;
+    font-size: 24px;
+    padding: 18px 24px;
+    transition:0.2s background-color;
+}
+
+.header-nightsky .btn-primary:hover {
+    background-color:rgba(255,255,255,0.1);
+}
+
+.header-nightsky .btn-primary:active {
+    transform:translateY(1px);
+}
+
+@media screen and (max-width: 767px) {
+
+    .header-nightsky .navbar-default .navbar-nav .open .dropdown-menu>li>a{
+        color: #fff;
+        font-size: 16px;
+    }
+
+    .header-nightsky .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover{
+        color: #ccc;
+    }
+
+    .header-nightsky .navbar-collapse {
+        margin-left: 20px;
+        border-top: none;
+        box-shadow: none;
+    }
+
+    .header-nightsky .hero{
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
+    .header-nightsky .hero h1{
+        font-size: 42px;
+    }
+
+}
+
+@media screen and (max-width: 443px) {
+
+  .block1 {
+
+    width: 100%;
+    height: 700px;
+
+}
+.line1 {
+    margin-left: 34px;
+
+    max-width: 10%;
+    border-bottom: 1px solid #000;
+    margin-top: 30px;
+        display: inline-block;
+padding: 20px;
+}
+
+#square {
+    max-width: 400px;
+    margin-top: 30px;
+    max-height: 330px;
+    background: #DADADA;
+    border-radius: 20px;
+}
+.line {
+
+    max-width: 10%;
+    border-bottom: 1px solid #000;
+    margin-top: 30px;
+        display: inline-block;
+padding: 20px;
+   }
+   .li {
+    font-size: 23px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+   .l {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+#square1 {
+    max-width: 400px;
+    margin-top: 30px;
+    height: 270px;
+    background: #DADADA;
+    border-radius: 20px;
+}
+.img1 {
+    margin: 0 auto;
+}
+}
+
+.parallax {
+  /* The image used */
+  background-image: url("https://i.yapx.ru/M7XkO.png");
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax1 {
+    color: #fff;
+    text-shadow: 2px 2px 2px #000;
+  /* The image used */
+  background-image: url("https://i.yapx.ru/M9U28.jpg");
+
+  /* Set a specific height */
+  min-height: 550px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.prl > li {
+list-style: none;
+font-size: 50px;
+text-align: center;
+margin-left: -45px;
+}
+
+.footer1 {
+    background-color: transparent;
+}
+
+.text1 {
+    font-size: 30px;
+}
+
+
+
+.carousel-animate .carousel-indicators > li {
+ margin: 0 2px;
+ background-color: #fff;
+ border-color: rgb(58,36,83);
+ opacity: .7;
+}
+.carousel-animate .carousel-indicators > li.active {
+ width: 10px;
+ height: 10px;
+ opacity: 1;
+}
+.carousel-animate .hero {
+ color: #fff;
+ text-align: center;
+ text-transform: uppercase;
+ text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.75);
+}
+.btn.btn-lg {
+ padding: 10px 40px;
+}
+.btn.btn-hero,
+.btn.btn-hero:hover,
+.btn.btn-hero:focus {
+ color: #fff;
+ background-color: #694198;
+ border-color: rgb(67,41,97);
+ outline: none;
+ margin: 20px auto;
+}
+@media screen and (max-width: 640px) {
+ .hero h1 {
+ font-size: 2em;
+ }
+}
+.carousel-fade .carousel-inner .item {
+ transition-property: opacity;
+}
+.carousel-fade .carousel-inner .item,
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+ opacity: 0;
+}
+.carousel-fade .carousel-inner .active,
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+ opacity: 1;
+}
+.carousel-fade .carousel-inner .next,
+.carousel-fade .carousel-inner .prev,
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+ left: 0;
+ transform: translate3d(0, 0, 0);
+}
+.carousel-bg .carousel-inner .item {
+ background-color: darkslategrey;
+ background-size: cover;
+ background-position: center;
+ min-height: 480px;
+}
+
+
+
+.carousel-bg .carousel-inner .item {
+    background-color: darkslategrey;
+    background-size: cover;
+    background-position: center;
+    min-height: 600px;
+    min-width: 600px;
+}
+
+
+
